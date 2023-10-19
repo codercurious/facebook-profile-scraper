@@ -1,5 +1,5 @@
 # Facebook profile and page scraper
-Interested in using this scraper? Get it here: [Facebook profile and page scraper](https://apify.com/curious_coder/facebook-profile-scraper)
+Interested in using this scraper? Get it here: [Facebook profile and page scraper](https://apify.com/curious_coder/facebook-profile-scraper?fpr=ve081&fp_sid=github_facebook-profile-scraper)
 ## How it works
 
 The Facebook profile scraper is an Apify actor designed to extract information about profiles and pages. You can get all available information such as Name, bio, work history, Emails, phone numbers, Skype, Twitter, Linkedin, Instagram profiles, Gender, Birth date, Location etc.
